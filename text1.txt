@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello, my name is Vlad!
+=======
+HEllo, my name is Vlad!
+Hey, I'm Alex!
+>>>>>>> thirdBranch
